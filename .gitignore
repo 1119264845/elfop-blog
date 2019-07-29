@@ -7,6 +7,6 @@ public/
 .deploy*/
 _config.yml
 /themes/melody/_config.yml
-/source/_data/_config.yml
+/source/_data/melody.yml
 
 
